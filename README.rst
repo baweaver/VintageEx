@@ -29,7 +29,7 @@ enable the `Vintage`_ package (shipped with Sublime Text and *ignored* by defaul
 
 .. _Vintage: http://www.sublimetext.com/docs/2/vintage.html
 
-VintageEx extends the vi-like functionality provided py Vintage by adding
+VintageEx extends the vi-like functionality provided by Vintage by adding
 a command-line mode that tries to remain close to Vim's.
 
 Also, because VintageEx uses commands in the Vintage package, this package
